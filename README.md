@@ -1,2 +1,2 @@
-# :bank: Prévia:
+# Prévia:
 ![Previa](previa.png)
